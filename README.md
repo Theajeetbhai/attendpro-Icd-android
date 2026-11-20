@@ -16,7 +16,7 @@ AttendPro LCD Edition is a clean, professional attendance manager with a bright 
 - JSON Backup & Restore
 
 ## 🌐 Try the web version
-https://ajeet1030.github.io/ajeetcnc.github.io/attendpro/
+https://theajeetbhai.github.io/ajeetcnc.github.io/attendpro/
 
 ## 👨‍💻 Made by
 **Ajeet Kumar** — CNC Programmer & Web App Builder
